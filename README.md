@@ -2,7 +2,7 @@
 
 I'm Omar Zaffar! I'm Machine Learning Engineer, amatuer endurance racer and a pro home cook. I want to help build data models that will help make lives easier, whether if that's with autonomous driving to systems that will accuratlly predict when the driver needs to stop and rest based on their driving patterns over time to intelligent voice assistants that wil learn each individuals accents. 
 
-- 🏁 My hobbies include: 
+🏁 My hobbies include: 
 * Building and racing cars
 * Cooking
 * Motorcycles
