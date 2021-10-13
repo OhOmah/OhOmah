@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Omar Zaffar! I'm Machine Learning Engineer, amatuer endurance racer and a pro home cook. I want to build data models that will make impacts to people's lives, whether if that's with autonomous driving to systems that will accuratlly predict when the driver needs to stop and rest based on their driving patterns over time to intelligent voice assistants that wil learn each individuals accents. 
+I'm Omar Zaffar! I'm Data Scientist, amatuer endurance racer and a pro home cook. Currently an employee @ AdeptID.  
+
+🔭 I’m currently working on ...
+* A smart home/security system with machine learning implemtations all contained locally. 
+* A machine learning model to help drivers improve lap times using reinforcment learning. 
 
 🏁 My hobbies include: 
 * Building and racing cars
