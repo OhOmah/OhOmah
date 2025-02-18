@@ -4,7 +4,8 @@ I'm Omar Zaffar! I'm Data Scientist, amatuer endurance racer and a pro home cook
 
 🔭 I’m currently working on ...
 * A smart home/security system with machine learning implemtations all contained locally. 
-* A machine learning model to help drivers improve lap times using reinforcment learning. 
+* A machine learning model to help drivers improve lap times using reinforcment learning.
+* A recommender system to match a user with a suitable lawyer for any civil case
 
 🏁 My hobbies include: 
 * Building and racing cars
