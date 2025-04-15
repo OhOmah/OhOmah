@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Omar Zaffar! I'm Data Scientist, amatuer endurance racer and a pro home cook. Currently an employee @ AdeptID.  
+I'm Omar Zaffar! I'm Data Scientist, amatuer endurance racer and a pro home cook. 
 
 🔭 I’m currently working on ...
 * A comparison between Red Bull Racing's #1 and #2 drivers. 
